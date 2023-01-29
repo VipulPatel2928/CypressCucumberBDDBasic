@@ -1,5 +1,5 @@
 Feature: Reading Data from the Table
-
+@smoke
 Scenario: Read the data for each Steps
 
 Given Open the below url
